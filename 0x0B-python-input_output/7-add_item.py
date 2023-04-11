@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# Sangwani P Zyambo
 """Add all arguments to a Python list and save them to a file."""
 import sys
 
